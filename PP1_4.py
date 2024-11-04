@@ -7,24 +7,24 @@
 
 def q1():
   #Write Assignment code here
-  word = input("Enter a word: ")
+  word = input("Input a word: ")
   print(word)
 
 def q2():
   #Write Assignment code here
-  firstName = input("Enter your first name: ")
+  firstName = input("Input your first name: ")
   print("Hello " + firstName)
 
 def q3():
   #Write Assignment code here
-  firstName = input("Enter your first name: ")
-  lastName = input("Enter your last name: ")
+  firstName = input("Input your first name: ")
+  lastName = input("Input your last name: ")
   print(f"{lastName} {firstName}")
 
 def q4():
   #Write Assignment code here
-  student1 = input("Enter student 1's name: ")
-  student2 = input("Enter student 2's name: ")
+  student1 = input("Input a student: ")
+  student2 = input("Input another student: ")
   print(f"Your students are {student1} and {student2}")
 #Do not edit code below this comment
 
